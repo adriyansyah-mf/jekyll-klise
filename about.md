@@ -1,16 +1,15 @@
 ---
-title: Colophon
+title: About Me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello Friends, Im an Backend Engineer, Im try to share my knowledge, So i hope you enjoy this blog
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hi im Adrian, Work as an Backend Engineer, Im currently stay in Semarang, Im trying to share my knowledge, I hope y'all enjoy this Blog
 
-If you have a question about him or else, just send a letter to him.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+If you have a question or need a help, You can contact me at [contact](mailto:adriyansyahmf0@gmail.com).
 
 **may u needs ✨**
 
